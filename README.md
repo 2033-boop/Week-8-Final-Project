@@ -1,25 +1,26 @@
-#Clinic_Booking_system-DB
-
+🏥 Clinic_Booking_system-DB
 Project Title
-** Clinic Booking System** -This is a MYSQL-based database for managing patients, doctors, appointments, rooms and treatments.
 
-##Description
+Clinic Booking System
+This is a MySQL-based database for managing patients, doctors, appointments, rooms, and treatments.
 
-This project implements a real-world Clinic Booking System database using MYSQL. Therefore, it supports:
+Description
 
-Patient and doctor registration,
+This project implements a real-world Clinic Booking System database using MySQL.
+It supports:
 
-Medical appointments, including status and payment tracking,
+Patient and doctor registration
 
-Room allocation and availability,
+Medical appointments, including status and payment tracking
+
+Room allocation and availability
 
 Treatment records for each appointment
 
-The Database ensures relational integrity with foreign Keys, constraints, and real-world business logic, including the appointment status, payment types, etc.
-
+The database ensures relational integrity with foreign keys, constraints, and real-world business logic, including appointment status, payment types, and more.
 Guess what, here is how you can run or set up the Project
+i.	Clone this repository
+ii.	---bash
+iii.	git clone htpps://github.com/Mike-BM/Clinic_Booking_system.git
+iv.	cd Clinic_Booking_system
 
-Clone this repository
----bash
-git clone https://github.com/2033-boop/Week-8-Final-Project.git
-cd Clinic_Booking_system

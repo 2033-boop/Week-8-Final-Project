@@ -1,4 +1,5 @@
-Clinic_Booking_system-DB
+#Clinic_Booking_system-DB
+
 Project Title
 ** Clinic Booking System** -This is a MYSQL-based database for managing patients, doctors, appointments, rooms and treatments.
 
@@ -20,5 +21,5 @@ Guess what, here is how you can run or set up the Project
 
 Clone this repository
 ---bash
-git clone 
+git clone https://github.com/2033-boop/Week-8-Final-Project.git
 cd Clinic_Booking_system
